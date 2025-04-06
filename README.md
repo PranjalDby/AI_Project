@@ -12,7 +12,7 @@ INT-428 PROJECT
 
 [- - - - - - - - - - - - - - - - - - - - - -   O u t p u t   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -]
 
-###Prompt: doll
+### Prompt: doll
 
 >>> Results <<<<
 
