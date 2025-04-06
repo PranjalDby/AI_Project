@@ -1,6 +1,6 @@
 from google import genai
 
-client = genai.Client(api_key="AIzaSyBNSynAFWA5zQq7UuFbgYatg5fTdEZY8-0")
+client = genai.Client(api_key="ENTER YOUR GEMINI-API KEY")
 
 def generate_example_sentence(word):
     prompt = f"You are a vocabulary-enhancing chatbot. If the user asks for a word meaning, give its definition, synonyms, and example usage. If they want to chat, reply using advanced vocabulary.\nUser: {word}\nChatbot:"
