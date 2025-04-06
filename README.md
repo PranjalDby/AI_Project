@@ -4,10 +4,11 @@ INT-428 PROJECT
 ### Some Outputs 
 
 
-[ - - - - - - - - - - - - - - - - - - - - - -   O u t p u t   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -]
+[- - - - - - - - - - - - - - - - - - - - - -   O u t p u t   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -]
 
- #Prompt: doll
-Ah, "doll"! Let's delve into the intricacies of this word.
+###Prompt: doll
+
+>>> Results <<<<
 
 Definition:
 
