@@ -1,6 +1,10 @@
 # AI_Project
 INT-428 PROJECT
 
+### Contributors
+[1. Pranjal Dubey]
+[2. Sanu Kumar]
+[3. Vasudeva reddy narapu reddy]
 ### Some Outputs 
 
 
